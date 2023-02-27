@@ -1,5 +1,8 @@
 {
     "private": true,
+    "engines": {
+        "node": "18.x"
+      },
     "scripts": {
         "dev": "npm run development",
         "development": "mix",
@@ -20,4 +23,5 @@
         "sass": "^1.32.11",
         "sass-loader": "^11.0.1"
     }
+
 }
